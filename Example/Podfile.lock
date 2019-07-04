@@ -1,0 +1,16 @@
+PODS:
+  - Ausbin (0.1.0)
+
+DEPENDENCIES:
+  - Ausbin (from `../`)
+
+EXTERNAL SOURCES:
+  Ausbin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Ausbin: 149f1ceef1389be4ff69287c3f844c874939702a
+
+PODFILE CHECKSUM: 4829258c03e947437f24ac04fef6bb030e3b40b5
+
+COCOAPODS: 1.6.1

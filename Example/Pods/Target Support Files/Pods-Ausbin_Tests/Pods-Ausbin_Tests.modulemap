@@ -1,0 +1,6 @@
+framework module Pods_Ausbin_Tests {
+  umbrella header "Pods-Ausbin_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

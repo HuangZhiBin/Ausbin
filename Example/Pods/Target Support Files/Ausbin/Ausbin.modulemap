@@ -1,0 +1,6 @@
+framework module Ausbin {
+  umbrella header "Ausbin-umbrella.h"
+
+  export *
+  module * { export * }
+}

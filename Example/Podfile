@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Ausbin_Example' do
+  pod 'Ausbin', :path => '../'
+
+  target 'Ausbin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
