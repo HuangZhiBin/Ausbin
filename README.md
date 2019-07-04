@@ -100,10 +100,3 @@ class DemoVcModel: NSObject {
     
 }
 ```
-
-| Item      | Value |
-| --------- | -----:|
-| 作者  | **黄智彬** |
-| 原创  | **YES** |
-| 微信  | **ikrboy** |
-| 邮箱  |   **ikrboy@163.com** |
