@@ -13,8 +13,11 @@ PS: 业务再多也不怕啦~
 - 数据驱动框架的优点在于view、model各司其职，view的代码只需处理前端UI的渲染与交互，而不直接操作model数据。可以由独立的service处理业务逻辑，对model进行数据的更新
 - view与model之间动态绑定，由model决定view的显示，而model也可以根据view的交互做出相应的处理，两者的交互由中间件完成，实现业务的解耦
 
+### 引入
+`pod 'Ausbin'`
+
 ### 系统语言要求
-`version >= Swift4.0`
+`Swift4.0`
 
 ### 基于Ausbin的最简单的例子
 以一个最简单的Sample作为例子，分析一下Ausbin的运行过程。下面是Sample这个vc的目录结构（具体参考/Ausbin/Demo）, Demo的文件夹里面有3个文件:
