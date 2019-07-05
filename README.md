@@ -2,6 +2,7 @@
 基于数据驱动的Swift框架(KVO)。Ausbin is an Swift KVO-driven framework
 PS: 业务再多也不怕啦~
 
+
 ![](http://wxtopik.oss-cn-shanghai.aliyuncs.com/app/images/ausbin.png)
 
 ### 推荐使用数据驱动框架的原因
